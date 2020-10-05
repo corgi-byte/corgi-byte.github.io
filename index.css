@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+
+.heading {
+    color: blueviolet;
+}
+
+.menu-item {
+    margin-top: 20px;
+    list-style-type: none;
+}
